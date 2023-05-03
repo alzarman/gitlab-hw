@@ -21,43 +21,42 @@
 Что нужно сделать:
 1.	Зарегистрируйте аккаунт на GitHub.
 
-![img](scr_61.png)
-![alt text](https://github.com/alezarman/gitlab-hw/blob/branch/path/scr_61.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_61.png)
 
 2.	Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 3.	Склонируйте репозиторий, используя https протокол git clone ....
 4.	Перейдите в каталог с клоном репозитория.
 5.	Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
 
-![img](scr_62.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_62.png)
 
 6.	Выполните команду git status и запомните результат.
 
-![img](scr_63.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_63.png)
 
 7.	Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 
-![img](scr_64.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_64.png)
 
 8.	Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
 
-![img](scr_71.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_71.png)
 
 9.	Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
 
-![img](scr_78.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_78.png)
 
 10.	Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
 
-![img](scr_81.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_81.png)
 
 11.	Ещё раз выполните команды git diff и git diff --staged.
 
-![img](scr_82.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_82.png)
 
 12.	Теперь можно сделать коммит git commit -m 'First commit'.
 
-![img](scr_83.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_83.png)
 
 13.	Сделайте git push origin master.
 
