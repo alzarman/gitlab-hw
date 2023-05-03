@@ -22,6 +22,7 @@
 1.	Зарегистрируйте аккаунт на GitHub.
 
 ![img](scr_61.png)
+![alt text](https://github.com/alezarman/gitlab-hw/blob/branch/path/scr_61.png)
 
 2.	Создайте публичный репозиторий. Обязательно поставьте галочку в поле «Initialize this repository with a README».
 3.	Склонируйте репозиторий, используя https протокол git clone ....
