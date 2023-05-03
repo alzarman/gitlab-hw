@@ -28,37 +28,39 @@
 4.	Перейдите в каталог с клоном репозитория.
 5.	Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_62.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_65.png)
 
 6.	Выполните команду git status и запомните результат.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_63.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_65.png)
 
 7.	Отредактируйте файл README.md любым удобным способом, переведя файл в состояние Modified.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_64.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_63.png)
 
 8.	Ещё раз выполните git status и продолжайте проверять вывод этой команды после каждого следующего шага.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_71.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_64.png)
 
 9.	Посмотрите изменения в файле README.md, выполнив команды git diff и git diff --staged.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_78.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_71.png)
 
 10.	Переведите файл в состояние staged или, как говорят, добавьте файл в коммит, командой git add README.md.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_81.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_78.png)
 
 11.	Ещё раз выполните команды git diff и git diff --staged.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_82.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_81.png)
 
 12.	Теперь можно сделать коммит git commit -m 'First commit'.
 
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_83.png)
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_82.png)
 
 13.	Сделайте git push origin master.
+
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_83.png)
 
 В качестве ответа добавьте ссылку на этот коммит в ваш md-файл с решением.
 
