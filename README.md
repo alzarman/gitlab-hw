@@ -27,9 +27,6 @@
 3.	Склонируйте репозиторий, используя https протокол git clone ....
 4.	Перейдите в каталог с клоном репозитория.
 5.	Произведите первоначальную настройку Git, указав своё настоящее имя и email: git config --global user.name и git config --global user.email johndoe@example.com.
-
-![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_65.png)
-
 6.	Выполните команду git status и запомните результат.
 
 ![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_65.png)
