@@ -77,6 +77,8 @@ ________________________________________
 
 3.      Напишите правила в этом файле, чтобы игнорировать любые файлы .pyc, а также все файлы в директории cache.
 
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_92.png)
+
 ![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_91.png)
 
 4.      Сделайте коммит и пуш.
@@ -95,6 +97,8 @@ ________________________________________
 4.	Сделайте мердж этой ветки в основную. Сначала нужно переключиться на неё, а потом вызывать git merge.
 5.	Сделайте коммит и пуш.
 В качестве ответа прикрепите ссылку на граф коммитов https://github.com/ваш-логин/ваш-репозиторий/network в ваш md-файл с решением.
+
+![img](https://github.com/alzarman/gitlab-hw/blob/main/img/scr_90.png)
 
 https://github.com/alzarman/githubdz/network
 ________________________________________
